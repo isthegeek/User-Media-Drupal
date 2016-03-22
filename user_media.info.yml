@@ -1,0 +1,8 @@
+name: 'user media'
+name: 'user media'
+description: 'View of user media'
+type: module
+package: Media
+core: 8.x
+dependencies:
+  - views
